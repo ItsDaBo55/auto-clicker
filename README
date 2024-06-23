@@ -17,7 +17,7 @@ This is an auto clicker application for Windows with customizable options.
 - Use the hotkey to start/stop the auto clicker.
 
 ## Download
-You can download the latest version of the executable from the [Releases](https://github.com/your-repo/auto-clicker/releases) section.
+You can download the latest version of the executable from the [Releases](https://github.com/ItsDaBo55/auto-clicker/releases) section.
 
 ## Building from Source
 To build the executable from the source code, you need Python and the required libraries:
