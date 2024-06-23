@@ -1,0 +1,25 @@
+# Auto Clicker
+
+This is an auto clicker application for Windows with customizable options.
+
+## Features
+- Set click interval (seconds)
+- Set number of clicks
+- Choose click type (left or right)
+- Option to keep clicking until stopped
+- Customizable start/stop hotkey
+- Settings are saved between sessions
+
+## Usage
+- Download the executable file from the releases section.
+- Run the executable.
+- Set your desired options in the GUI.
+- Use the hotkey to start/stop the auto clicker.
+
+## Download
+You can download the latest version of the executable from the [Releases](https://github.com/your-repo/auto-clicker/releases) section.
+
+## Building from Source
+To build the executable from the source code, you need Python and the required libraries:
+```sh
+pip install pyautogui tk keyboard pyinstaller
